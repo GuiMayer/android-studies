@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="distancia">Distância</string>
+    <string name="total_em_km">Total em km da viagem</string>
+    <string name="preco">Preço</string>
+    <string name="preco_por_litro_combustivel">Preço por litro de combustível</string>
+    <string name="preco_total">Preço total</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="km_por_litro">KMs por litro</string>
+    <string name="pedagio">Pedágio</string>
+    <string name="gasto_total">GASTO TOTAL</string>
+    <string name="gasto_total_rs">R$ 0,00</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="favor_preencher_todos_os_campos">Por favor, preencha todos os campos</string>
+</resources>
